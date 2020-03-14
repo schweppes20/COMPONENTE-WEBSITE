@@ -1,0 +1,1 @@
+Un blog cu un layout responsiv
