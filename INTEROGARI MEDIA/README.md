@@ -1,0 +1,1 @@
+Interogari media. Cand browserul verifica conditia, daca este adevarata, se aplica codul din interiorul interogarii.
