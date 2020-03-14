@@ -1,0 +1,1 @@
+O bara de navigare in partea de sus, responsiva
