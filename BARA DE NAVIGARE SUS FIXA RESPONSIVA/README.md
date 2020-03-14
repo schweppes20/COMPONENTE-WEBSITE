@@ -1,0 +1,1 @@
+Bara de navigare sus fixa responsiva
