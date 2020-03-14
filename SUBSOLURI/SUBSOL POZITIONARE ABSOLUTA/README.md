@@ -1,0 +1,1 @@
+Un subsol ce foloseste pozitionarea absoluta
