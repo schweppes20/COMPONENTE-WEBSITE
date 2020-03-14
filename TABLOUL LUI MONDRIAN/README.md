@@ -1,0 +1,1 @@
+Un model de site prin care se imparte spatiul de lucru cu ajutorul tagului div.
