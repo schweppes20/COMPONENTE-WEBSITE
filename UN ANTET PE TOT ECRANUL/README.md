@@ -1,0 +1,1 @@
+Un antet pe tot ecranul
